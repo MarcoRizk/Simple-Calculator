@@ -1,0 +1,17 @@
+C:\Users\Howard Ryan\source\repos\Simple Calculator\SimpleCalculator.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Howard Ryan\source\repos\Simple Calculator\SimpleCalculator.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Howard Ryan\source\repos\Simple Calculator\SimpleCalculator.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Howard Ryan\source\repos\Simple Calculator\SimpleCalculator.Test.Unit\bin\Debug\SimpleCalculator.Test.Unit.dll
+C:\Users\Howard Ryan\source\repos\Simple Calculator\SimpleCalculator.Test.Unit\bin\Debug\SimpleCalculator.Test.Unit.pdb
+C:\Users\Howard Ryan\source\repos\Simple Calculator\SimpleCalculator.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Howard Ryan\source\repos\Simple Calculator\SimpleCalculator.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Howard Ryan\source\repos\Simple Calculator\SimpleCalculator.Test.Unit\bin\Debug\Simple Calculator.exe
+C:\Users\Howard Ryan\source\repos\Simple Calculator\SimpleCalculator.Test.Unit\bin\Debug\Simple Calculator.pdb
+C:\Users\Howard Ryan\source\repos\Simple Calculator\SimpleCalculator.Test.Unit\bin\Debug\Simple Calculator.exe.config
+C:\Users\Howard Ryan\source\repos\Simple Calculator\SimpleCalculator.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Howard Ryan\source\repos\Simple Calculator\SimpleCalculator.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Howard Ryan\source\repos\Simple Calculator\SimpleCalculator.Test.Unit\obj\Debug\SimpleCalculator.Test.Unit.csprojAssemblyReference.cache
+C:\Users\Howard Ryan\source\repos\Simple Calculator\SimpleCalculator.Test.Unit\obj\Debug\SimpleCalculator.Test.Unit.csproj.CoreCompileInputs.cache
+C:\Users\Howard Ryan\source\repos\Simple Calculator\SimpleCalculator.Test.Unit\obj\Debug\SimpleCalculator.Test.Unit.csproj.CopyComplete
+C:\Users\Howard Ryan\source\repos\Simple Calculator\SimpleCalculator.Test.Unit\obj\Debug\SimpleCalculator.Test.Unit.dll
+C:\Users\Howard Ryan\source\repos\Simple Calculator\SimpleCalculator.Test.Unit\obj\Debug\SimpleCalculator.Test.Unit.pdb
